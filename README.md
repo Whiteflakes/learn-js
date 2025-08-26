@@ -5,7 +5,7 @@ Step-by-step JavaScript curriculum from fundamentals to ultra-advanced (tooling,
 How to run the exercises (PowerShell):
 
 ```powershell
-Set-Location -Path 'd:\Programming\learn\campjs'
+Set-Location -Path '..\campjs'
 npm install
 npm test
 ```
