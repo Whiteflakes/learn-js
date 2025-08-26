@@ -12,11 +12,19 @@ try {
 }
 
 // tiny bundler runner using buildAndRequire if available
-let buildAndRequire;
-try {
-  buildAndRequire = require('../exercises/05-modules/05-bundler-exec/index').buildAndRequire;
-} catch (e) {
-  buildAndRequire = null;
+let buildAndRequire = null;
+const bundlerPaths = [
+  '../exercises/06-modules/05-bundler-exec/index',
+  '../exercises/07-modules/05-bundler-exec/index',
+  '../exercises/05-modules/05-bundler-exec/index'
+];
+for (const p of bundlerPaths) {
+  if (buildAndRequire) break;
+  try {
+    buildAndRequire = require(p).buildAndRequire;
+  } catch (_) {
+    // continue
+  }
 }
 
 const argv = process.argv.slice(2);

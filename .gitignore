@@ -1,2 +1,8 @@
 node_modules/
 .env
+copilot-instructions.md
+LEARNING_PLAN.md
+.github/copilot-instructions.md
+.github/LEARNING_PLAN.md
+.github/LEARNING_PLAN.local.md
+.github/copilot-instructions.local.md
