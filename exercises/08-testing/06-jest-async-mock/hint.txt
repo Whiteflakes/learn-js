@@ -1,0 +1,1 @@
+If the stub doesn't resolve, ensure you used `sinon.stub(obj, 'method').resolves(...)` for async methods.

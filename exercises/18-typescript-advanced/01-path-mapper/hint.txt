@@ -1,0 +1,1 @@
+Hint: patterns in `paths` can include `*`. Match prefix, extract remainder and substitute into target patterns.

@@ -1,0 +1,1 @@
+Track the last run time and only call when enough time elapsed; don't use setTimeout for basic throttle.

@@ -1,0 +1,1 @@
+If your delegated handler still fires, check that inner handlers call `stopPropagation()` and that your delegation walks up until the container.

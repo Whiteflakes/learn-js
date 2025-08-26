@@ -1,0 +1,1 @@
+Use Date.now() (or performance.now if available) before and after to compute elapsed time.

@@ -1,0 +1,1 @@
+Use event bubbling and `element.matches(selector)` to detect delegated targets; stop when reaching the container.

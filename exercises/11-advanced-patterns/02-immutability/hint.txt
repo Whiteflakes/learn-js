@@ -1,0 +1,1 @@
+Use shallow clones for top-level changes and copy nested objects on the path when using `setIn`.

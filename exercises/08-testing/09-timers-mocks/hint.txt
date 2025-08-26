@@ -1,0 +1,1 @@
+If your callback wasn't invoked, ensure you used `jest.useFakeTimers()` and advanced time with `jest.advanceTimersByTime(ms)` before asserting.

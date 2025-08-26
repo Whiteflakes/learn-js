@@ -1,0 +1,1 @@
+Stub the passed fetcher function (or object method) with sinon.stub(...).resolves(...) for async functions.

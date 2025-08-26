@@ -1,0 +1,1 @@
+Hint: measure Date.now() before/after strategies; extend with worker_threads for real parallelism.

@@ -1,0 +1,6 @@
+Common pitfalls:
+- Forgetting to handle `null`/`undefined` thisArg (should default to globalThis).
+- Not deleting the temporary property after calling the function.
+- Using a plain string key can clash with existing properties; use Symbol for safety.
+
+If your test fails, check those points and re-run `npm test`.

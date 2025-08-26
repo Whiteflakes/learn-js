@@ -1,0 +1,1 @@
+If spawnSync fails, ensure the project is installed (`npm install`) and `integration/cli.js` is executable via `node integration/cli.js`.

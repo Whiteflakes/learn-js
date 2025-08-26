@@ -1,0 +1,1 @@
+Hint: Represent shapes by joined property keys. A transition is previous shape + added prop -> new shape.

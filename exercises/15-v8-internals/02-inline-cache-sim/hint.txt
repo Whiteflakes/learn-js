@@ -1,0 +1,1 @@
+Hint: define a site key; collect sorted object keys as shape; classify by unique shape count.

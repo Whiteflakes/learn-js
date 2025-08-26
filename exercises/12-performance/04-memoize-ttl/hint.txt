@@ -1,0 +1,1 @@
+Use a Map to store value+timestamp; evict or refresh when ttl has passed.

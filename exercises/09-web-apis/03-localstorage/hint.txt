@@ -1,0 +1,1 @@
+Return `null` for missing keys, and store values as strings (like real localStorage).

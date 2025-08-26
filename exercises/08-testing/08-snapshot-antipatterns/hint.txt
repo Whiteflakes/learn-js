@@ -1,0 +1,1 @@
+Don't snapshot unstable/generated IDs, timestamps, or large random payloads; stabilize them before snapshotting or test specific properties.

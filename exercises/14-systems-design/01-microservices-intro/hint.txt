@@ -1,0 +1,1 @@
+Think about service boundaries and why explicit message formats help decoupling.

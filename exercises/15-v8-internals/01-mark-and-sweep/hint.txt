@@ -1,0 +1,1 @@
+Hint: Use DFS/BFS from roots to mark reachable nodes. Remove keys not visited.

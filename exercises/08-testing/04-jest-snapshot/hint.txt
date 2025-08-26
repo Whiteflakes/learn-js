@@ -1,0 +1,1 @@
+If the snapshot changes unexpectedly, consider stabilizing timestamps or IDs before snapshotting (e.g., replace dynamic ids with a fixed string).

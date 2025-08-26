@@ -1,0 +1,1 @@
+Think about how to treat null/undefined values when mapping; return a Maybe wrapping null to continue chaining safely.

@@ -1,0 +1,1 @@
+Hint: record start time, store in array/object, set end time on close, compute durations when asked.

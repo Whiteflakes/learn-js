@@ -1,0 +1,1 @@
+Run `npm run test:coverage` to generate coverage and open the coverage report in `coverage/lcov-report/index.html`.

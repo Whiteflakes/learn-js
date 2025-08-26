@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`makeProfile snapshot 1`] = `
+{
+  "age": 30,
+  "id": "alice-TS",
+  "name": "Alice",
+  "settings": {
+    "notifications": {
+      "email": true,
+      "sms": false,
+    },
+    "theme": "dark",
+  },
+  "tags": [
+    "student",
+    "learner",
+  ],
+}
+`;

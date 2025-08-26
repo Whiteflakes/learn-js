@@ -1,0 +1,1 @@
+If stubbing fails, check that you passed the exact object whose method you'll stub and restore the stub after the test.

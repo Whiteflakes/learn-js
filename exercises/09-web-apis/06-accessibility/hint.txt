@@ -1,0 +1,1 @@
+Check for either `role` or `aria-label` for minimal accessibility; prefer explicit labels for interactive elements.

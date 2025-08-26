@@ -1,0 +1,1 @@
+Hint: Return a refactor object with an apply() that reconstructs code around selection.

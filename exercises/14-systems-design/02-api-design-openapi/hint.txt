@@ -1,0 +1,1 @@
+Hint: OpenAPI describes endpoints, request/response shapes and is useful for contract-first design.

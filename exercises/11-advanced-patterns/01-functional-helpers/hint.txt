@@ -1,0 +1,1 @@
+Curry: remember to check function.length (arity) and allow partial calls until arity satisfied.
